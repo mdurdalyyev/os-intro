@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title:  Средства для создания приложений в ОС UNIX.
+title:  Именованные каналы.
 author: |
 	 Дурдалыев Максат\inst{1}
 
